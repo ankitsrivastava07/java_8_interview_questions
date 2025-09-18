@@ -1,5 +1,7 @@
 package java8_practice.problems;
 
+import java8_practice.problems.dto.Notes;
+
 import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
